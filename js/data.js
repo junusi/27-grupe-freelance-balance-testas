@@ -11,4 +11,4 @@ const account = [
     { month: 11, income: 150, expense: 30 },
     { month: 8, income: 450, expense: 120 },
     { month: 12, expense: 200 }
-];
+]; gruodis
